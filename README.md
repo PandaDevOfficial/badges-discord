@@ -35,30 +35,30 @@ This repository documents **all known badges** with accurate details and high-qu
 
 | Badge | Name | Description | Status |
 |:------|:------|:-------------|:--------|
-| <img src="/assets/discordstaff.svg" width="48"> | **Discord Staff** | Granted to official Discord employees. | 🟢 Active |
-| <img src="/assets/discordpartner.svg" width="48"> | **Partnered Server Owner** | Given to owners of partnered Discord servers. | 🟢 Active |
-| <img src="/assets/hypesquadevents.svg" width="48"> | **HypeSquad Events** | For users who represented Discord at events or conventions. | 🔴 Legacy |
-| <img src="/assets/hypesquadbravery.svg" width="48"> | **HypeSquad Bravery** | One of three original HypeSquad houses. | 🔴 Legacy |
-| <img src="/assets/hypesquadbrilliance.svg" width="48"> | **HypeSquad Brilliance** | One of three original HypeSquad houses. | 🔴 Legacy |
-| <img src="/assets/hypesquadbalance.svg" width="48"> | **HypeSquad Balance** | One of three original HypeSquad houses. | 🔴 Legacy |
-| <img src="/assets/discordearlysupporter.svg" width="48"> | **Early Supporter** | For users who purchased Discord Nitro before Oct 2018. | 🔴 Legacy |
-| <img src="/assets/discordnitro.svg" width="48"> | **Discord Nitro** | Indicates an active Nitro subscription. | 🟢 Active |
-| <img src="/assets/orb.svg" width="48"> | **Orbs Apprentice** | Earned by completing Orbs quests and buying exclusives. | 🟢 Active |
-| <img src="/assets/quest.png" width="48"> | **Completed a Quest** | For completing quests from the Gift Inventory tab. | 🟢 Active |
-| <img src="/assets/special/discordlootbox.svg" width="48"> | **A Clown, for a Limited Time** | Exclusive badge from the April Fools Lootbox event. | 🔴 Legacy |
-| <img src="/assets/username.png" width="48"> | **Originally Known As** | For users from the old tag system (TAG#0000). | 🔴 Legacy |
-| <img src="/assets/lastmeadow.svg" width="48"> | **Last Meadow Online** | Played Last Meadow Online for April fools 2026 | 🔴 Legacy |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/discordstaff.svg" width="48"> | **Discord Staff** | Granted to official Discord employees. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/discordpartner.svg" width="48"> | **Partnered Server Owner** | Given to owners of partnered Discord servers. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/hypesquadevents.svg" width="48"> | **HypeSquad Events** | For users who represented Discord at events or conventions. | 🔴 Legacy |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/hypesquadbravery.svg" width="48"> | **HypeSquad Bravery** | One of three original HypeSquad houses. | 🔴 Legacy |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/hypesquadbrilliance.svg" width="48"> | **HypeSquad Brilliance** | One of three original HypeSquad houses. | 🔴 Legacy |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/hypesquadbalance.svg" width="48"> | **HypeSquad Balance** | One of three original HypeSquad houses. | 🔴 Legacy |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/discordearlysupporter.svg" width="48"> | **Early Supporter** | For users who purchased Discord Nitro before Oct 2018. | 🔴 Legacy |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/discordnitro.svg" width="48"> | **Discord Nitro** | Indicates an active Nitro subscription. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/orb.svg" width="48"> | **Orbs Apprentice** | Earned by completing Orbs quests and buying exclusives. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/quest.png" width="48"> | **Completed a Quest** | For completing quests from the Gift Inventory tab. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/special/discordlootbox.svg" width="48"> | **A Clown, for a Limited Time** | Exclusive badge from the April Fools Lootbox event. | 🔴 Legacy |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/username.png" width="48"> | **Originally Known As** | For users from the old tag system (TAG#0000). | 🔴 Legacy |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/lastmeadow.svg" width="48"> | **Last Meadow Online** | Played Last Meadow Online for April fools 2026 | 🔴 Legacy |
 ---
 
 ## Developer Badges
 
 | Badge | Name | Description | Status |
 |:------|:------|:-------------|:--------|
-| <img src="/assets/activedeveloper.svg" width="48"> | **Active Developer** | Granted to developers maintaining an active app with global commands used within 30 days. | 🟢 Active |
-| <img src="/assets/discordbotdev.svg" width="48"> | **Early Verified Bot Developer** | For developers who verified a bot before August 19, 2020. | 🔴 Legacy |
-| <img src="/assets/discordmod.svg" width="48"> | **Moderator Programs Alumni** | Given to members who completed Discord’s Moderator Academy. | 🔴 Legacy |
-| <img src="/assets/discordbughunter1.svg" width="48"> | **Bug Hunter (Tier 1)** | Awarded to users testing and reporting bugs. | 🟢 Active |
-| <img src="/assets/discordbughunter2.svg" width="48"> | **Bug Hunter (Tier 2)** | For top-tier testers in Discord Testers. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/activedeveloper.svg" width="48"> | **Active Developer** | Granted to developers maintaining an active app with global commands used within 30 days. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/discordbotdev.svg" width="48"> | **Early Verified Bot Developer** | For developers who verified a bot before August 19, 2020. | 🔴 Legacy |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/discordmod.svg" width="48"> | **Moderator Programs Alumni** | Given to members who completed Discord’s Moderator Academy. | 🔴 Legacy |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/discordbughunter1.svg" width="48"> | **Bug Hunter (Tier 1)** | Awarded to users testing and reporting bugs. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/discordbughunter2.svg" width="48"> | **Bug Hunter (Tier 2)** | For top-tier testers in Discord Testers. | 🟢 Active |
 
 ---
 
@@ -66,9 +66,9 @@ This repository documents **all known badges** with accurate details and high-qu
 
 | Badge | Name | Description | Status |
 |:------|:------|:-------------|:--------|
-| <img src="/assets/supportscommands.svg" width="48"> | **Supports Commands** | Indicates bots that use application commands (slash commands). | 🟢 Active |
-| <img src="/assets/automod.svg" width="48"> | **Uses AutoMod** | For bots with 100+ active AutoMod rules. | 🟢 Active |
-| <img src="/assets/premiumbot.png" width="48"> | **Premium Bot** | For bots offering premium via in-app purchases. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/supportscommands.svg" width="48"> | **Supports Commands** | Indicates bots that use application commands (slash commands). | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/automod.svg" width="48"> | **Uses AutoMod** | For bots with 100+ active AutoMod rules. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/premiumbot.png" width="48"> | **Premium Bot** | For bots offering premium via in-app purchases. | 🟢 Active |
 
 ---
 
@@ -76,14 +76,14 @@ This repository documents **all known badges** with accurate details and high-qu
 
 | Tier | Badge | Months | Description |
 |:------|:------|:------|:-------------|
-| Bronze | <img src="/assets/subscriptions/badges/bronze.png" width="48"> | 1 | Subscribed for 1 month |
-| Silver | <img src="/assets/subscriptions/badges/silver.png" width="48"> | 3 | Subscribed for 3 months |
-| Gold | <img src="/assets/subscriptions/badges/gold.png" width="48"> | 6 | Subscribed for 6 months |
-| Platinum | <img src="/assets/subscriptions/badges/platinum.png" width="48"> | 12 | Subscribed for 1 year |
-| Diamond | <img src="/assets/subscriptions/badges/diamond.png" width="48"> | 24 | Subscribed for 2 years |
-| Emerald | <img src="/assets/subscriptions/badges/emerald.png" width="48"> | 36 | Subscribed for 3 years |
-| Ruby | <img src="/assets/subscriptions/badges/ruby.png" width="48"> | 60 | Subscribed for 5 years |
-| Opal | <img src="/assets/subscriptions/badges/opal.png" width="48"> | 72+ | Subscribed for 6+ years |
+| Bronze | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/subscriptions/badges/bronze.png" width="48"> | 1 | Subscribed for 1 month |
+| Silver | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/subscriptions/badges/silver.png" width="48"> | 3 | Subscribed for 3 months |
+| Gold | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/subscriptions/badges/gold.png" width="48"> | 6 | Subscribed for 6 months |
+| Platinum | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/subscriptions/badges/platinum.png" width="48"> | 12 | Subscribed for 1 year |
+| Diamond | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/subscriptions/badges/diamond.png" width="48"> | 24 | Subscribed for 2 years |
+| Emerald | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/subscriptions/badges/emerald.png" width="48"> | 36 | Subscribed for 3 years |
+| Ruby | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/subscriptions/badges/ruby.png" width="48"> | 60 | Subscribed for 5 years |
+| Opal | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/subscriptions/badges/opal.png" width="48"> | 72+ | Subscribed for 6+ years |
 
 ---
 
@@ -91,15 +91,15 @@ This repository documents **all known badges** with accurate details and high-qu
 
 | Tier | Badge | Requirement |
 |:------|:------|:-------------|
-| Level 1 | <img src="/assets/boosts/discordboost1.svg" width="48"> | 1 month boost |
-| Level 2 | <img src="/assets/boosts/discordboost2.svg" width="48"> | 2 months boost |
-| Level 3 | <img src="/assets/boosts/discordboost3.svg" width="48"> | 3 months boost |
-| Level 4 | <img src="/assets/boosts/discordboost4.svg" width="48"> | 6 months boost |
-| Level 5 | <img src="/assets/boosts/discordboost5.svg" width="48"> | 9 months boost |
-| Level 6 | <img src="/assets/boosts/discordboost6.svg" width="48"> | 1 year boost |
-| Level 7 | <img src="/assets/boosts/discordboost7.svg" width="48"> | 15 months boost |
-| Level 8 | <img src="/assets/boosts/discordboost8.svg" width="48"> | 18 months boost |
-| Level 9 | <img src="/assets/boosts/discordboost9.svg" width="48"> | 2 years boost |
+| Level 1 | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/boosts/discordboost1.svg" width="48"> | 1 month boost |
+| Level 2 | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/boosts/discordboost2.svg" width="48"> | 2 months boost |
+| Level 3 | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/boosts/discordboost3.svg" width="48"> | 3 months boost |
+| Level 4 | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/boosts/discordboost4.svg" width="48"> | 6 months boost |
+| Level 5 | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/boosts/discordboost5.svg" width="48"> | 9 months boost |
+| Level 6 | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/boosts/discordboost6.svg" width="48"> | 1 year boost |
+| Level 7 | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/boosts/discordboost7.svg" width="48"> | 15 months boost |
+| Level 8 | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/boosts/discordboost8.svg" width="48"> | 18 months boost |
+| Level 9 | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/boosts/discordboost9.svg" width="48"> | 2 years boost |
 
 ---
 
@@ -107,12 +107,12 @@ This repository documents **all known badges** with accurate details and high-qu
 
 | Badge | Name | Description | Status |
 |:------|:------|:-------------|:--------|
-| <img src="/assets/server/Partnered.svg" width="48"> | **Partnered Server** | For servers that met Discord’s partner requirements. | 🔴 Paused |
-| <img src="/assets/server/Verified.svg" width="48"> | **Verified Server** | For official brands, games, or creators. | 🔴 Paused |
-| <img src="/assets/server/CommunityDark.svg" width="48"> | **Community Server** | For servers with the community feature enabled. | 🟢 Active |
-| <img src="/assets/server/Boost3Dark.svg" width="48"> | **Boost Level 3** | For servers boosted to level 3. | 🟢 Active |
-| <img src="/assets/server/Crown.svg" width="48"> | **Server Owner** | Given to the server creator (crown icon). | 🟢 Active |
-| <img src="/assets/server/NewHere.svg" width="48"> | **I'm New Here!** | Shown to new members for one week. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/server/Partnered.svg" width="48"> | **Partnered Server** | For servers that met Discord’s partner requirements. | 🔴 Paused |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/server/Verified.svg" width="48"> | **Verified Server** | For official brands, games, or creators. | 🔴 Paused |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/server/CommunityDark.svg" width="48"> | **Community Server** | For servers with the community feature enabled. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/server/Boost3Dark.svg" width="48"> | **Boost Level 3** | For servers boosted to level 3. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/server/Crown.svg" width="48"> | **Server Owner** | Given to the server creator (crown icon). | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/server/NewHere.svg" width="48"> | **I'm New Here!** | Shown to new members for one week. | 🟢 Active |
 
 ---
 
@@ -120,14 +120,14 @@ This repository documents **all known badges** with accurate details and high-qu
 
 | Badge | Name | Description | Status |
 |:------|:------|:-------------|:--------|
-| <img src="/assets/special/Official.svg" width="48"> | **Official** | Reserved for official system messages. | 🔴 System |
-| <img src="/assets/special/System.svg" width="48"> | **System** | Legacy Discord system messages. | 🔴 System |
-| <img src="/assets/special/Server.svg" width="48"> | **Server Follow** | Shown on posts made via “Followed Channel” webhooks. | 🟢 Active |
-| <img src="/assets/special/VerifiedApp.svg" width="48"> | **Verified App** | Verified Discord app or bot. | 🟢 Active |
-| <img src="/assets/special/App.svg" width="48"> | **Unverified App** | Regular bot or app. | 🟢 Active |
-| <img src="/assets/special/Beta.svg" width="48"> | **Beta** | Used for internal beta features. | 🔴 Legacy |
-| <img src="/assets/special/LightAi.svg" width="48"> | **AI (Clyde)** | Used by Discord’s Clyde AI bot. | 🔴 System |
-| <img src="/assets/special/OriginalPoster.svg" width="48"> | **Original Poster (OP)** | Given to the creator of a forum post. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/special/Official.svg" width="48"> | **Official** | Reserved for official system messages. | 🔴 System |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/special/System.svg" width="48"> | **System** | Legacy Discord system messages. | 🔴 System |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/special/Server.svg" width="48"> | **Server Follow** | Shown on posts made via “Followed Channel” webhooks. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/special/VerifiedApp.svg" width="48"> | **Verified App** | Verified Discord app or bot. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/special/App.svg" width="48"> | **Unverified App** | Regular bot or app. | 🟢 Active |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/special/Beta.svg" width="48"> | **Beta** | Used for internal beta features. | 🔴 Legacy |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/special/LightAi.svg" width="48"> | **AI (Clyde)** | Used by Discord’s Clyde AI bot. | 🔴 System |
+| <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/special/OriginalPoster.svg" width="48"> | **Original Poster (OP)** | Given to the creator of a forum post. | 🟢 Active |
 
 ---
 
@@ -136,11 +136,11 @@ This repository documents **all known badges** with accurate details and high-qu
 21 customizable tag icons for server roles and tags.
 
 <p align="center">
-  <img src="/assets/guilds/1.svg" width="48">
-  <img src="/assets/guilds/2.svg" width="48">
-  <img src="/assets/guilds/3.svg" width="48">
-  <img src="/assets/guilds/4.svg" width="48">
-  <img src="/assets/guilds/5.svg" width="48">
+  <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/guilds/1.svg" width="48">
+  <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/guilds/2.svg" width="48">
+  <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/guilds/3.svg" width="48">
+  <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/guilds/4.svg" width="48">
+  <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/guilds/5.svg" width="48">
   ...
 </p>
 
@@ -152,9 +152,9 @@ Special or unique badge appearances in Discord history.
 
 | Event | Image |
 |:------|:------|
-| Spongetext App receiving a **Staff Badge** for unclear reasons. | <img src="/assets/fame/spongetextstaff.png" width="100"> |
-| Sapphire & GearBot received the **Moderator Alumni Badge**. | <img src="/assets/fame/sapphiremod.png" width="100"> <img src="/assets/fame/gearmod.png" width="100"> |
-| Discord’s early chatbot before Clyde. | <img src="/assets/fame/wumpus.png" width="100"> |
+| Spongetext App receiving a **Staff Badge** for unclear reasons. | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/fame/spongetextstaff.png" width="100"> |
+| Sapphire & GearBot received the **Moderator Alumni Badge**. | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/fame/sapphiremod.png" width="100"> <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/fame/gearmod.png" width="100"> |
+| Discord’s early chatbot before Clyde. | <img src="https://raw.githubusercontent.com/PandaDevOfficial/CDN-badges-discord/main/assets/fame/wumpus.png" width="100"> |
 
 ---
 
@@ -168,10 +168,11 @@ Special or unique badge appearances in Discord history.
 
 ---
 
-## Credits
+## Credits & Ecosystem
 
 - Based on public Discord assets and documentation  
-- High-quality assets stored in `/assets/`  
+- 🚀 **High-Speed Global CDN**: [CDN-badges-discord](https://github.com/PandaDevOfficial/CDN-badges-discord)  
+- 🌐 **Interactive Web App & Simulator**: [DiscordBadges-Web](https://github.com/PandaDevOfficial/DiscordBadges-Web)  
 - Official Discord guide: [Profile Badges 101](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101)
 
 ---
