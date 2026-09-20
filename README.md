@@ -47,7 +47,7 @@ This repository documents **all known badges** with accurate details and high-qu
 | <img src="/assets/quest.png" width="48"> | **Completed a Quest** | For completing quests from the Gift Inventory tab. | 🟢 Active |
 | <img src="/assets/special/discordlootbox.svg" width="48"> | **A Clown, for a Limited Time** | Exclusive badge from the April Fools Lootbox event. | 🔴 Legacy |
 | <img src="/assets/username.png" width="48"> | **Originally Known As** | For users from the old tag system (TAG#0000). | 🔴 Legacy |
-
+| <img src="/assets/lastmeadow.svg" width="48"> | **Last Meadow Online** | Played Last Meadow Online for April fools 2026 | 🔴 Legacy |
 ---
 
 ## Developer Badges
