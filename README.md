@@ -19,6 +19,7 @@ This repository documents **all known badges** with accurate details and high-qu
 ## Table of Contents
 
 - [Activity & Progression Badges (New)](#-activity--progression-badges-new)
+- [Gifting Badges (New)](#-gifting-badges-new)
 - [General Badges](#-general-badges)  
 - [Developer Badges](#-developer-badges)  
 - [Bot Badges](#-bot-badges)  
@@ -70,6 +71,21 @@ Badges introduced in Discord's [Profile Badges 101](https://support.discord.com/
 | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_1.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_2.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_3.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_4.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_5.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_6.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_7.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_8.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_9.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_10.svg" width="36" /> |
 | Seed (1y) | Sprout (2y) | Bud (3y) | Sapling (4y) | Blossom (5y) | Redwood (6y) | Sequoia (7y) | Bristlecone (8y) | Stromatolite (9y) | Primordial (10y+) |
 </details>
+
+---
+
+## 🎁 Gifting Badges (New)
+
+Badges introduced in Discord's [Profile Badges 101](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101) experimental rollout that evolve across 6 tiers based on Nitro and Shop gifts sent to other users or their profile Wishlist:
+
+| Badge | Tier | Milestone | Description | Status |
+|:------|:-----|:----------|:------------|:-------|
+| <img src="https://cdn-discordbadges.pages.dev/assets/gifting/gifting_patron.png" width="48" height="48" alt="Gifting: Patron" /> | **Patron** (Tier 1) | 1 Gift | Send 1 Nitro or Shop gift from the Discord Shop or profile Wishlist. | 🟢 Active |
+| <img src="https://cdn-discordbadges.pages.dev/assets/gifting/gifting_champion.png" width="48" height="48" alt="Gifting: Champion" /> | **Champion** (Tier 2) | 2 Gifts | Send 2 Nitro or Shop gifts to other users. | 🟢 Active |
+| <img src="https://cdn-discordbadges.pages.dev/assets/gifting/gifting_luminary.png" width="48" height="48" alt="Gifting: Luminary" /> | **Luminary** (Tier 3) | 3 Gifts | Send 3 Nitro or Shop gifts to other users. | 🟢 Active |
+| <img src="https://cdn-discordbadges.pages.dev/assets/gifting/gifting_icon.png" width="48" height="48" alt="Gifting: Icon" /> | **Icon** (Tier 4) | 6 Gifts | Send 6 Nitro or Shop gifts to other users. | 🟢 Active |
+| <img src="https://cdn-discordbadges.pages.dev/assets/gifting/gifting_hero.png" width="48" height="48" alt="Gifting: Hero" /> | **Hero** (Tier 5) | 10 Gifts | Send 10 Nitro or Shop gifts to other users. | 🟢 Active |
+| <img src="https://cdn-discordbadges.pages.dev/assets/gifting/gifting_legend.png" width="48" height="48" alt="Gifting: Legend" /> | **Legend** (Tier 6) | 20+ Gifts | Send 20 or more Nitro or Shop gifts to reach the supreme gifting tier. | 🟢 Active |
 
 ---
 
