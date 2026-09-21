@@ -18,6 +18,7 @@ This repository documents **all known badges** with accurate details and high-qu
 
 ## Table of Contents
 
+- [Activity & Progression Badges (New)](#-activity--progression-badges-new)
 - [General Badges](#-general-badges)  
 - [Developer Badges](#-developer-badges)  
 - [Bot Badges](#-bot-badges)  
@@ -28,6 +29,47 @@ This repository documents **all known badges** with accurate details and high-qu
 - [Tag Icons](#-tag-icons)  
 - [Hall of Fame](#-hall-of-fame)  
 - [Badge Change Log](#-badge-change-log)
+
+---
+
+## 🎮 Activity & Progression Badges (New)
+
+Badges introduced in Discord's [Profile Badges 101](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101) experimental rollout that evolve across 10 milestone tiers as you play games, stream, and age your account:
+
+| Series | Icon (Master / T10) | Description | Key Milestones (10 Tiers) | Status |
+|:-------|:-------------------|:------------|:--------------------------|:-------|
+| **Game Variety** | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_variety.svg" width="48" height="48" alt="Game Variety" /> | Play more unique detectable games with Discord open. | Tier 1: Sampler (2 games)<br>Tier 2: Dabbler (5 games)<br>Tier 3: Enthusiast (10 games)<br>Tier 4: Ranger (15 games)<br>Tier 5: Explorer (20 games)<br>Tier 6: Adventurer (30 games)<br>Tier 7: Voyager (40 games)<br>Tier 8: Maverick (60 games)<br>Tier 9: Polymath (80 games)<br>Tier 10: Universalist (100+ games) | 🟢 Active |
+| **Game Time** | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_time.svg" width="48" height="48" alt="Game Time" /> | Play more hours of detectable PC games with Discord open. | Tier 1: Casual (1 hr)<br>Tier 2: Recreational (5 hrs)<br>Tier 3: Dedicated (20 hrs)<br>Tier 4: Committed (75 hrs)<br>Tier 5: Serious (150 hrs)<br>Tier 6: Devoted (300 hrs)<br>Tier 7: Seasoned (500 hrs)<br>Tier 8: Ironclad (1,000 hrs)<br>Tier 9: Unshakeable (2,000 hrs)<br>Tier 10: Eternal (5,000+ hrs) | 🟢 Active |
+| **Streaming** | <img src="https://cdn-discordbadges.pages.dev/assets/activity/streaming.svg" width="48" height="48" alt="Streaming" /> | Stream more hours to other users in voice channels. | Tier 1: Newcomer (1 hr)<br>Tier 2: Fledgling (5 hrs)<br>Tier 3: Breakout (20 hrs)<br>Tier 4: Standout (75 hrs)<br>Tier 5: Trendsetter (150 hrs)<br>Tier 6: Headliner (300 hrs)<br>Tier 7: Star (500 hrs)<br>Tier 8: Sensation (1,000 hrs)<br>Tier 9: Visionary (2,000 hrs)<br>Tier 10: Phenomenon (5,000+ hrs) | 🟢 Active |
+| **Account Age** | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age.svg" width="48" height="48" alt="Account Age" /> | Keep an active Discord account. Time will do the rest. | Tier 1: Seed (1 yr)<br>Tier 2: Sprout (2 yrs)<br>Tier 3: Bud (3 yrs)<br>Tier 4: Sapling (4 yrs)<br>Tier 5: Blossom (5 yrs)<br>Tier 6: Redwood (6 yrs)<br>Tier 7: Sequoia (7 yrs)<br>Tier 8: Bristlecone (8 yrs)<br>Tier 9: Stromatolite (9 yrs)<br>Tier 10: Primordial (10+ yrs) | 🟢 Active |
+
+<details>
+<summary><b>🔍 View All 40 Evolution Tier Icons</b></summary>
+
+### Game Variety (10 Tiers)
+| Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 | Tier 6 | Tier 7 | Tier 8 | Tier 9 | Tier 10 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_variety_1.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_variety_2.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_variety_3.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_variety_4.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_variety_5.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_variety_6.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_variety_7.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_variety_8.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_variety_9.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_variety_10.svg" width="36" /> |
+| Sampler (2g) | Dabbler (5g) | Enthusiast (10g) | Ranger (15g) | Explorer (20g) | Adventurer (30g) | Voyager (40g) | Maverick (60g) | Polymath (80g) | Universalist (100g+) |
+
+### Game Time (10 Tiers)
+| Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 | Tier 6 | Tier 7 | Tier 8 | Tier 9 | Tier 10 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_time_1.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_time_2.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_time_3.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_time_4.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_time_5.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_time_6.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_time_7.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_time_8.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_time_9.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/game_time_10.svg" width="36" /> |
+| Casual (1h) | Rec (5h) | Ded (20h) | Comm (75h) | Serious (150h) | Devoted (300h) | Seasoned (500h) | Ironclad (1kh) | Unshake (2kh) | Eternal (5kh+) |
+
+### Streaming (10 Tiers)
+| Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 | Tier 6 | Tier 7 | Tier 8 | Tier 9 | Tier 10 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn-discordbadges.pages.dev/assets/activity/streaming_1.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/streaming_2.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/streaming_3.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/streaming_4.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/streaming_5.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/streaming_6.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/streaming_7.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/streaming_8.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/streaming_9.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/streaming_10.svg" width="36" /> |
+| Newcomer (1h) | Fledgling (5h) | Breakout (20h) | Standout (75h) | Trendsetter (150h) | Headliner (300h) | Star (500h) | Sensation (1kh) | Visionary (2kh) | Phenomenon (5kh+) |
+
+### Account Age (10 Tiers)
+| Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 | Tier 6 | Tier 7 | Tier 8 | Tier 9 | Tier 10 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_1.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_2.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_3.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_4.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_5.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_6.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_7.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_8.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_9.svg" width="36" /> | <img src="https://cdn-discordbadges.pages.dev/assets/activity/account_age_10.svg" width="36" /> |
+| Seed (1y) | Sprout (2y) | Bud (3y) | Sapling (4y) | Blossom (5y) | Redwood (6y) | Sequoia (7y) | Bristlecone (8y) | Stromatolite (9y) | Primordial (10y+) |
+</details>
 
 ---
 
