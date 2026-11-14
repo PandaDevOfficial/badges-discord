@@ -118,7 +118,7 @@ Badges introduced in Discord's [Profile Badges 101](https://support.discord.com/
 
 | Badge | Name | Description | Status |
 | :------ | :------ | :------------- | :-------- |
-| <img src="https://cdn-discordbadges.pages.dev/assets/activedeveloper.svg" width="48" height="48" alt="Active Developer" /> | **Active Developer** | Granted to developers maintaining an active app with global commands used within 30 days. | 🟢 Active |
+| <img src="https://cdn-discordbadges.pages.dev/assets/activedeveloper.svg" width="48" height="48" alt="Active Developer" /> | **Active Developer** | Granted to developers maintaining an active app with global commands used within 30 days. Removed on the 5th December 2025 because Discord couldn't handle all the tickets | 🔴 Legacy |
 | <img src="https://cdn-discordbadges.pages.dev/assets/discordbotdev.svg" width="48" height="48" alt="Early Verified Bot Developer" /> | **Early Verified Bot Developer** | For developers who verified a bot before August 19, 2020. | 🔴 Legacy |
 | <img src="https://cdn-discordbadges.pages.dev/assets/discordmod.svg" width="48" height="48" alt="Moderator Programs Alumni" /> | **Moderator Programs Alumni** | Given to members who completed Discord’s Moderator Academy. | 🔴 Legacy |
 | <img src="https://cdn-discordbadges.pages.dev/assets/discordbughunter1.svg" width="48" height="48" alt="Bug Hunter (Tier 1)" /> | **Bug Hunter (Tier 1)** | Awarded to users testing and reporting bugs. | 🟢 Active |
