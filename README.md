@@ -174,6 +174,7 @@ Badges introduced in Discord's [Profile Badges 101](https://support.discord.com/
 | <img src="https://cdn-discordbadges.pages.dev/assets/server/Partnered.svg" width="48" height="48" alt="Partnered Server" /> | **Partnered Server** | For servers that met Discord’s partner requirements. | 🔴 Paused |
 | <img src="https://cdn-discordbadges.pages.dev/assets/server/Verified.svg" width="48" height="48" alt="Verified Server" /> | **Verified Server** | For official brands, games, or creators. | 🔴 Paused |
 | <img src="https://cdn-discordbadges.pages.dev/assets/server/CommunityDark.svg" width="48" height="48" alt="Community Server" /> | **Community Server** | For servers with the community feature enabled. | 🟢 Active |
+| <img src="https://github.com/user-attachments/assets/180e9379-5ef4-46bb-b7cc-cd82cf117ce5" width="48" height="48" alt="Discovery Server" /> | **Discovery Server** | For servers listed in Server Discovery. | 🟢 Active |
 | <img src="https://cdn-discordbadges.pages.dev/assets/server/Boost3Dark.svg" width="48" height="48" alt="Boost Level 3" /> | **Boost Level 3** | For servers boosted to level 3. | 🟢 Active |
 | <img src="https://cdn-discordbadges.pages.dev/assets/server/Crown.svg" width="48" height="48" alt="Server Owner" /> | **Server Owner** | Given to the server creator (crown icon). | 🟢 Active |
 | <img src="https://cdn-discordbadges.pages.dev/assets/server/NewHere.svg" width="48" height="48" alt="I'm New Here!" /> | **I'm New Here!** | Shown to new members for one week. | 🟢 Active |
